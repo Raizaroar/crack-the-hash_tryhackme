@@ -13,3 +13,4 @@ Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Cra
 - Cracking con diccionarios y fuerza bruta
 - OSINT aplicado a hashes personalizados
 - Ética en el análisis de datos cifrados
+
