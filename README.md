@@ -14,3 +14,4 @@ Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Cra
 - OSINT aplicado a hashes personalizados
 - Ética en el análisis de datos cifrados
 
+![Banner del proyecto](assets/Screenshot 2025-10-23 165501.png)
