@@ -15,3 +15,7 @@ Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Cra
 - Ética en el análisis de datos cifrados
 
 ![image alt](https://github.com/Raizaroar/crack-the-hash_tryhackme/blob/0bdfc30d03c9e4597f9f98d62fcd20df1f6acd1c/Screenshot%202025-10-23%20165501.png)
+
+<p align="center">
+  <img src="assets/banner.png" alt="Banner del proyecto" width="600"/>
+</p>
