@@ -1,4 +1,4 @@
-<!-- # Crack the Hash – TryHackMe Walkthrough
+# Crack the Hash – TryHackMe Walkthrough
 
 Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Crack the Hash* en TryHackMe. Incluye análisis de hashes, uso de herramientas, estrategias OSINT y reflexiones sobre el aprendizaje en ciberseguridad.
 
@@ -12,7 +12,7 @@ Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Cra
 - Identificación de tipos de hash
 - Cracking con diccionarios y fuerza bruta
 - OSINT aplicado a hashes personalizados
-- Ética en el análisis de datos cifrados -->
+- Ética en el análisis de datos cifrados
 
 <p align="center">
   <img src="https://github.com/Raizaroar/crack-the-hash_tryhackme/blob/0bdfc30d03c9e4597f9f98d62fcd20df1f6acd1c/Screenshot%202025-10-23%20165501.png" alt="bu" width="600"/>
