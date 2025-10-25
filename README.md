@@ -15,7 +15,7 @@ Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Cra
 - Ética en el análisis de datos cifrados
 
 > [!IMPORTANT]
-> Unicacamente con fines educativos.
+> Unicamente con fines educativos.
 
 <p align="center">
   <img src="imagen1.png" alt="bu" width="600"/>

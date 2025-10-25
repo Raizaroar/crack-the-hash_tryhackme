@@ -4,10 +4,22 @@
 
 Esta es la explicación breve del hash 1: cómo lo identifiqué y qué intentos de cracking hice.
 
-- Tipo de hash: MD5 / SHA1 / otro
-- Herramientas: hash-identifier
-- Resultado: contraseña encontrada 
+Primero con la VM Kali Linux desplegamos la terminal y colocamos el codigo 
 
- imag
+<!-- Panel de código con botón copiar -->
+<div class="code-panel">
+  <div class="code-header">
+    <span class="code-title">Ejemplo</span>
+    <button class="copy-btn" aria-label="Copiar código">Copiar</button>
+  </div>
+  <pre><code class="language-none" id="code-snippet">
+hash-identifier
+  </code></pre>
+</div>
+
+<p align="center">
+  <img src="imagen2.png" alt="bu" width="600"/>
+</p>
+ 
 
 Más detalles en el README principal.
