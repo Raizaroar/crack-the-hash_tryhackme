@@ -8,6 +8,6 @@ Esta es la explicación breve del hash 1: cómo lo identifiqué y qué intentos 
 - Herramientas: hash-identifier
 - Resultado: contraseña encontrada 
 
-![Captura del proceso](../assets/imagen.png)
+ imag
 
 Más detalles en el README principal.

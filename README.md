@@ -18,5 +18,5 @@ Este repositorio documenta mi enfoque paso a paso para resolver la máquina *Cra
 > Unicacamente con fines educativos.
 
 <p align="center">
-  <img src="https://github.com/Raizaroar/crack-the-hash_tryhackme/blob/0bdfc30d03c9e4597f9f98d62fcd20df1f6acd1c/Screenshot%202025-10-23%20165501.png" alt="bu" width="600"/>
+  <img src="imagen1.png" alt="bu" width="600"/>
 </p>
