@@ -9,7 +9,7 @@ Primero con la VM Kali Linux desplegamos la terminal y colocamos el codigo
 <!-- Panel de código con botón copiar -->
 <div class="code-panel">
   <div class="code-header">
-    <span class="code-title">Codigo</span>
+    <span class="code-title">Codigo para</span>
     <button class="copy-btn" aria-label="Copiar código">Copiar</button>
   </div>
   <pre><code class="language-none" id="code-snippet">
